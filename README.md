@@ -1,0 +1,1 @@
+This is the repository that will hold my time series exercises from the codeup curriculum.
